@@ -252,3 +252,7 @@ bootm 0x1FFFFC0   #从内存地址引导内核
     
 ## 其他
 后继又在debootstrap中加入了python golang docker等软件包，并调大rootfs到4GB，同时修改相应bootargs emmc_partition。
+
+
+神雕写的教程
+https://www.right.com.cn/FORUM/forum.php?mod=viewthread&tid=7269215
